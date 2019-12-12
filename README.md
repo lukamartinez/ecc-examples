@@ -1,4 +1,4 @@
-This project contains examples for EEC lecture at RiTeh.
+This project contains examples for ECC lecture at RiTeh.
 
 Required Python libraries: tinyec, pycryptodome
 
